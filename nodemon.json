@@ -1,0 +1,5 @@
+{
+  "watch": ["src", "lib"],
+  "ext": "jsx,js",
+  "exec": "npm run build && node ./dist/index.mjs"
+}
